@@ -3,7 +3,7 @@
 <!-- Optional right-side image (uncomment if you want it) -->
 
 <img 
-  src="./assets/Urahara.jpeg" 
+  src="./assets/Sword.jpg" 
   width="25%" 
   align="right"
 />
