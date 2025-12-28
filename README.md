@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Optional right-side image (uncomment if you want it) -->
-
 <img 
   src="./assets/Sword.jpg" 
   width="25%" 
