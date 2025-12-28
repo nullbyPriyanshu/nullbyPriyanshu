@@ -16,11 +16,11 @@
 <br>
 
 <pre>
-💼 Backend Engineer • API & System Design
-💻 Node.js • Express • MongoDB • Docker
-☁️ AWS • Render • PostgreSQL • Socket.io
-🧠 JavaScript • Java • Git • Postman
-🎬 Anime • Films • Motion Editing
+ Backend Engineer • API & System Design
+ Node.js • Express • MongoDB • Docker
+ AWS • Render • PostgreSQL • Socket.io
+ JavaScript • Java • Git • Postman
+ Anime • Films • Motion Editing
 </pre>
 
 <br>
