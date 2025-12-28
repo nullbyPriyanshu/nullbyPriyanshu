@@ -1,5 +1,4 @@
 <div align="center">
-
 <img 
   src="./assets/Sword.jpg" 
   width="25%" 
@@ -32,3 +31,9 @@
 <a href="mailto:pmaurya.dev@gmail.com">email</a>
 
 </div>
+<br><br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nullbyPriyanshu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
