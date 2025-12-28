@@ -25,7 +25,7 @@
 
 <img src="./assets/kyubey.gif" height="40" />
 
-<br>
+<br><br>
 
 <a href="https://discord.com/users/938084997913534584">discord</a> ·
 <a href="https://www.linkedin.com/in/priyanshu-maurya-5b6621336">linkedin</a> ·
