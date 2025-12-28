@@ -32,7 +32,7 @@ Anime · Films · Motion editing
 
 </td>
 
-<td width="35%" align="right" style="border:none;">
+<td width="35%" align="center" style="border:none;">
 <img src="./assets/Urahara.jpeg" width="90%" />
 </td>
 
