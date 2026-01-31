@@ -1,7 +1,11 @@
+<div align="left">
+  <img src="./assets/kyubey.gif" height="55" align="right" />
+
 #### Sup! I'm Priyanshu  
-_I write logic machines understand._
-<br><br>
-<img src="./assets/kyubey.gif" height="40" />
+_Less, but better._
+
+</div>
+
 <!-- <div> -->
 <!-- <br><br>
 
