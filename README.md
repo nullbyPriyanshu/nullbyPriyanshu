@@ -2,7 +2,7 @@
   <img src="./assets/kyubey.gif" height="55" align="right" />
 
 #### Sup! I'm Priyanshu  
-_Less, but better._
+_Under the Hood Always._
 
 </div>
 
