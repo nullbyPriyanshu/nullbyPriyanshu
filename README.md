@@ -3,7 +3,6 @@
 
 #### Sup! I'm Priyanshu  
 _Under the Hood Always._
-
 </div>
 
 <!-- <div> -->
